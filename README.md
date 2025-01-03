@@ -1,4 +1,5 @@
 ## **Hi 👋, I'm Avwal Kaur**
+### 💡 BTech CSE'27 Undergrad at IGDTUW, Delhi. 
 ### 👩🏻‍💻 Exploring the Technological World!
 
 ### Languages and Tools:
