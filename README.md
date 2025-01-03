@@ -1,5 +1,5 @@
 ## **Hi 👋, I'm Avwal Kaur**
-<p style="color:green;font-weight:bold;">👩🏻‍💻 Exploring the technological world!</p>
+<h3 style="color:green;font-weight:bold;">👩🏻‍💻 Exploring the technological world!</h3>
 
 #### 💡 BTech CSE'27 Undergrad at IGDTUW, Delhi. 
 
