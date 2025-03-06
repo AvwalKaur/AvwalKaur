@@ -1,6 +1,7 @@
 ## **Hi 👋, I'm Avwal Kaur**
 <h4 style="color:purple;font-weight:bold;">👩🏻‍💻 Exploring the technological world!</h4>
-### Languages and Tools:
+
+#### Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
