@@ -12,5 +12,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvwalKaur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Avwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvwalKaur&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvwalKaur&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![Avwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvwalKaur&show_icons=true&theme=default)
