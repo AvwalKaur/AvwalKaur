@@ -10,4 +10,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </p>
 
-![Avwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvwalKaur&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvwalKaur&layout=compact)
+
