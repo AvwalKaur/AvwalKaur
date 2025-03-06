@@ -9,6 +9,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS-3" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </p>
+![Avwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvwalKaur&show_icons=true&theme=default&card_width=250)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvwalKaur&layout=compact)
 
