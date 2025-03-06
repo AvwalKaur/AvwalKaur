@@ -1,5 +1,5 @@
 ## **Hi 👋, I'm Avwal Kaur**
-<h4 style="color:purple;font-weight:bold;">👩🏻‍💻 Exploring the technological world!</h4>
+<h4 style="color:purple;font-weight:bold;">BTech CSE'27 IGDTUW</h4>
 
 #### Languages and Tools:
 <p align="left">
