@@ -1,5 +1,4 @@
-## **Hi 👋, I'm Avwal Kaur**
-<h4 style="color:purple;font-weight:bold;">BTech CSE'27 IGDTUW</h4>
+## **Hi 👋, I'm Avwal **
 
 #### Languages and Tools:
 <p align="left">
