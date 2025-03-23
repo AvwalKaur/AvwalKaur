@@ -1,4 +1,4 @@
-## **Hi 👋, I'm Avwal **
+## Hi 👋, I'm Avwal 
 
 #### Languages and Tools:
 <p align="left">
